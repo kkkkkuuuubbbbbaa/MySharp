@@ -1,0 +1,6 @@
+var x=69;
+var y=69;
+var z==x+y=;
+var a=138;
+print("69 a 69 je "+a)
+ 

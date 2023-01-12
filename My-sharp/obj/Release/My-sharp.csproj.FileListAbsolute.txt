@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\My-sharp\My-sharp\bin\Release\My-sharp.exe.config
+C:\Users\User\source\repos\My-sharp\My-sharp\bin\Release\My-sharp.exe
+C:\Users\User\source\repos\My-sharp\My-sharp\bin\Release\My-sharp.pdb
+C:\Users\User\source\repos\My-sharp\My-sharp\obj\Release\My-sharp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\My-sharp\My-sharp\obj\Release\My-sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\My-sharp\My-sharp\obj\Release\My-sharp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\My-sharp\My-sharp\obj\Release\My-sharp.exe
+C:\Users\User\source\repos\My-sharp\My-sharp\obj\Release\My-sharp.pdb
